@@ -1,0 +1,11 @@
+@media (max-width: 720px){
+    .style-section{
+        display: flex;
+        flex-direction: column;
+    }
+    .style-btns{
+        min-width: 100%;
+        justify-content: center;
+        gap: 20px;
+    }
+}
